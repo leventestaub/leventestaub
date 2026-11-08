@@ -7,6 +7,8 @@ Final-year Applied Data Science & AI student at Breda University of Applied Scie
 ### Selected work
 - **[Sentify](https://github.com/leventestaub/portfolio/blob/main/sentify-emotion-mlops.md)**: emotion classification for video and audio, one MLOps package running on Azure ML and an on-premise server. BERT at macro F1 0.84. My part: the retraining pipeline, the registration gate, canary and blue/green rollout, and a self-hosted MLflow stack. *Python, Azure ML, MLflow, FastAPI, Docker.*
 - **[Plant-root phenotyping](https://github.com/leventestaub/portfolio/blob/main/plant-root-phenotyping.md)**: U-Net root segmentation (validation F1 0.863), root-tip detection driving a simulated pipetting robot, and an architecture comparison with statistical tests. *TensorFlow/Keras, OpenCV, PyBullet, Stable-Baselines3.*
+- **[Pastaio](https://github.com/leventestaub/pastaio)**: Italian cooking app with an LLM agent that acts through the same tools as the buttons, grounded in a sourced recipe knowledge base, with a multi-turn eval harness. *FastAPI, Groq / Ollama, Expo / React Native, SQLite.*
+- **[Fraud-model drift monitoring](https://github.com/leventestaub/portfolio/blob/main/fraud-drift-monitoring.md)**: KS + PSI drift detection and a tiered retraining trigger for an XGBoost fraud model; shows a silent drift that only performance monitoring catches. *XGBoost, SciPy, Evidently, Streamlit.*
 
 ### What I work with
 Python · PyTorch / Hugging Face · MLflow · Azure ML · Docker · FastAPI · GitHub Actions

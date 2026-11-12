@@ -4,7 +4,7 @@
 
 Final-year Applied Data Science & AI student at Breda University of Applied Sciences (BUas) and pre-master student in Data Science & AI at TU/e, based in Breda, NL. Most of my work is on the engineering side of machine learning: the pipelines, registries, rollouts and tests that keep a model useful after the notebook.
 
-**Currently:** looking for a graduation internship in ML engineering, MLOps or computer vision, starting February 2027 (Breda / train-reachable in NL, or remote; EU citizen).
+**Currently:** looking for a graduation internship in ML engineering, MLOps or computer vision, starting February 2027 (Breda / train-reachable in NL, or remote).
 
 ### Selected work
 - **[Pastaio](https://github.com/leventestaub/pastaio)**: a pasta-cooking app with a tool-calling LLM agent. It answers from a sourced recipe knowledge base, acts through the app's own tools, and enforces dietary rules and tool-call validation in code, covered by CI tests. Includes a multi-turn evaluation harness and a model fallback chain. *Python, FastAPI, Pydantic, Groq / Ollama, Expo / React Native, TypeScript, SQLite, GitHub Actions, Vercel.*

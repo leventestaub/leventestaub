@@ -15,7 +15,7 @@ Final-year Applied Data Science & AI student at Breda University of Applied Scie
 
 ### What I work with
 - **ML / DL:** PyTorch, Hugging Face Transformers, TensorFlow/Keras, scikit-learn, XGBoost, Stable-Baselines3
-- **LLM apps:** tool-calling agents, RAG, evaluation harnesses, Groq, Ollama
+- **LLM apps:** tool-calling agents, evaluation harnesses, Groq, Ollama
 - **Computer vision:** semantic segmentation (U-Net), OpenCV, scikit-image
 - **MLOps:** MLflow, Azure ML, Docker, GitHub Actions CI, pytest, drift monitoring (Evidently)
 - **Backend and data:** Python, FastAPI, SQL (PostgreSQL, SQLite), TypeScript / React Native
